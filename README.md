@@ -44,20 +44,20 @@ PROJETO-DAJU/
 
 Clonar o repositório
 
---git clone https://github.com/wllcosta/teste-daju.git
---cd teste-daju
+- **git clone https://github.com/wllcosta/teste-daju.git**
+- **cd teste-daju**
 
  Rodar o backend
 
---cd backend
---npm install
---npm start
+- **cd backend**
+- **npm install**
+- **npm start**
 
 Rodar o frontend
 
---cd frontend
---npm install
---npm start
+- **cd frontend**
+- **npm install**
+- **npm start**
 
 ## 👨‍💻Autor
 
