@@ -42,19 +42,23 @@ PROJETO-DAJU/
 
 ## ▶️ Como Rodar o Projeto
 
-## Clonar o repositório
+Clonar o repositório
 
 git clone https://github.com/wllcosta/teste-daju.git
 cd teste-daju
 
-## Rodar o backend
+ Rodar o backend
 
 cd backend
 npm install
 npm start
 
-## Rodar o frontend
+Rodar o frontend
 
 cd frontend
 npm install
 npm start
+
+## 👨‍💻Autor
+
+Este projeto foi desenvolvido por Willian Costa, como parte de estudos e projetos para o teste da DajuLabs.
